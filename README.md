@@ -28,15 +28,80 @@ My strongest interests are **responsive web development**, **UI/UX-driven implem
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,php,mysql" alt="Java, HTML, CSS, JavaScript, PHP, MySQL" />
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" alt="Java" /><br/>
+      <sub><strong>Java</strong></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" /><br/>
+      <sub><strong>HTML</strong></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" /><br/>
+      <sub><strong>CSS</strong></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" /><br/>
+      <sub><strong>JavaScript</strong></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" alt="PHP" /><br/>
+      <sub><strong>PHP</strong></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL" /><br/>
+      <sub><strong>MySQL</strong></sub>
+    </td>
+  </tr>
+</table>
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,docker,visualstudio,vscode" alt="Git, GitHub, Figma, Docker, Visual Studio, VS Code" />
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" /><br/>
+      <sub><strong>Git</strong></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /><br/>
+      <sub><strong>GitHub</strong></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma" /><br/>
+      <sub><strong>Figma</strong></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" /><br/>
+      <sub><strong>Docker</strong></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=visualstudio" width="48" alt="Visual Studio" /><br/>
+      <sub><strong>Visual Studio</strong></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" /><br/>
+      <sub><strong>VS Code</strong></sub>
+    </td>
+  </tr>
+</table>
 
 ### Currently Strengthening
 
-<img src="https://skillicons.dev/icons?i=dotnet,mongodb" alt=".NET and MongoDB" />
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" alt=".NET" /><br/>
+      <sub><strong>.NET</strong></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB" /><br/>
+      <sub><strong>MongoDB</strong></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
