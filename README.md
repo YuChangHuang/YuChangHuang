@@ -97,13 +97,6 @@ I am looking for internship roles in **front-end development** or **full-stack w
       <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" /><br/>
       <sub><strong>VS Code</strong></sub>
     </td>
-  </tr>
-</table>
-
-### Currently Strengthening
-
-<table>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=dotnet" width="48" alt=".NET" /><br/>
       <sub><strong>.NET</strong></sub>
