@@ -132,53 +132,6 @@ My strongest interests are **responsive web development**, **UI/UX-driven implem
   </tr>
 </table>
 
----
-
-## Experience Snapshot
-
-<table>
-  <tr>
-    <td>
-      <strong>Team Lead</strong><br/>
-      Kunming Tianchang Fenghua Technology Co., Ltd.<br/>
-      <em>Jul 2025 - Aug 2025</em>
-    </td>
-    <td>
-      Led a 15-person field team for mobile plan activations, customer onboarding, KYC workflows, performance tracking, and on-site issue handling.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Network Deployment Projects</strong><br/>
-      Kunming Tianchang Fenghua Technology Co., Ltd.<br/>
-      <em>2021 - 2023</em>
-    </td>
-    <td>
-      Supported university infrastructure deployments including fiber patching, switch installation, firewall configuration, structured cabling, and connectivity testing.
-    </td>
-  </tr>
-</table>
-
----
-
-## Education
-
-<table>
-  <tr>
-    <td>
-      <strong>Inholland University of Applied Sciences</strong><br/>
-      BSc Information Technology<br/>
-      Aug 2024 - Expected May 2028
-    </td>
-    <td>
-      English-taught program<br/>
-      Average grade: 7.50 / 10
-    </td>
-  </tr>
-</table>
-
----
-
 <div align="center">
 
 ## Open To Internship Opportunities
