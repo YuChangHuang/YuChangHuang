@@ -22,6 +22,18 @@ My strongest interests are **responsive web development**, **UI/UX-driven implem
 
 ---
 
+<div align="center">
+
+## Open To Internship Opportunities
+
+I am looking for internship roles in **front-end development** or **full-stack web development**, especially on teams that value clean implementation, useful products, and steady learning.
+
+**Email:** [yuchanghuang112@gmail.com](mailto:yuchanghuang112@gmail.com)
+
+</div>
+
+---
+
 ## Tech Stack
 
 <div align="center">
@@ -131,13 +143,3 @@ My strongest interests are **responsive web development**, **UI/UX-driven implem
     </td>
   </tr>
 </table>
-
-<div align="center">
-
-## Open To Internship Opportunities
-
-I am looking for internship roles in **front-end development** or **full-stack web development**, especially on teams that value clean implementation, useful products, and steady learning.
-
-**Email:** [yuchanghuang112@gmail.com](mailto:yuchanghuang112@gmail.com)
-
-</div>
