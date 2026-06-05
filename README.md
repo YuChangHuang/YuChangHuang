@@ -28,15 +28,15 @@ My strongest interests are **responsive web development**, **UI/UX-driven implem
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=java,html,css,js,php,mysql)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=java,html,css,js,php,mysql" alt="Java, HTML, CSS, JavaScript, PHP, MySQL" />
 
 ### Tools & Platforms
 
-[![Tools](https://skillicons.dev/icons?i=git,github,figma,docker,visualstudio,vscode)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=git,github,figma,docker,visualstudio,vscode" alt="Git, GitHub, Figma, Docker, Visual Studio, VS Code" />
 
 ### Currently Strengthening
 
-[![Learning](https://skillicons.dev/icons?i=dotnet,mongodb)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=dotnet,mongodb" alt=".NET and MongoDB" />
 
 </div>
 
