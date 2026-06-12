@@ -117,22 +117,26 @@ I am looking for internship roles in **front-end development** or **full-stack w
 <table>
   <tr>
     <td width="33%">
+      <h3>Haarlem Festival Platform</h3>
+      <p>Full-stack festival website with public site and internal CMS: ticketing with QR codes, Stripe payments, reservations, and order management. Team project.</p>
+      <p><strong>Focus:</strong> PHP 8.4, MySQL, Nginx, Docker Compose, Stripe</p>
+      <p><strong>Built:</strong> payment flows, CMS features, fully local one-command Docker setup</p>
+      <p><a href="https://github.com/YuChangHuang/HaarlemFestivalPart2">View repository</a></p>
+    </td>
+    <td width="33%">
+      <h3>CycleWay.nl — Festival Event Website</h3>
+      <p>Responsive multi-page website focused on layout, interaction, and accessibility.</p>
+      <p><strong>Focus:</strong> HTML, CSS, Figma, WCAG 2.1</p>
+      <p><a href="https://yuchanghuang.github.io/Web-Markup-Final/">Live demo</a> · <a href="https://github.com/YuChangHuang/Web-Markup-Final">View repository</a></p>
+    </td>
+    <td width="33%">
       <h3>Restaurant Ordering System</h3>
       <p>Full-stack restaurant management system built in a team project.</p>
       <p><strong>Focus:</strong> ASP.NET MVC, SQL, ERD, payment flows</p>
       <p><strong>Built:</strong> Direct Pay, Split Payment, database structure, MVC-based application logic</p>
-    </td>
-    <td width="33%">
-      <h3>Festival Event Website</h3>
-      <p>Responsive multi-page event website focused on layout, interaction, and accessibility.</p>
-      <p><strong>Focus:</strong> HTML, CSS, JavaScript, Figma, WCAG 2.1</p>
-      <p><a href="https://github.com/YuChangHuang/Web-Markup-Final">View repository</a></p>
-    </td>
-    <td width="33%">
-      <h3>Incident Management System</h3>
-      <p>NoSQL incident tracking system for employees, assets, and operational records.</p>
-      <p><strong>Focus:</strong> MongoDB, Docker, NoSQL data modeling</p>
-      <p><strong>Built:</strong> incident data structure, asset tracking logic, containerized deployment</p>
+      <p><em>Repository coming soon</em></p>
     </td>
   </tr>
 </table>
+
+<p align="center"><a href="https://yuchanghuang.github.io/"><strong>→ Full portfolio: yuchanghuang.github.io</strong></a></p>
