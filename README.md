@@ -122,6 +122,13 @@ I am looking for internship roles in **front-end development** or **full-stack w
 <table>
   <tr>
     <td width="33%" valign="top">
+      <h3>Ride Lab</h3>
+      <p>Road-cycling catalogue &amp; personal-setup app: browse and compare bikes, estimate tyre pressure, save setups, and upgrade to premium via Stripe. Vue 3 SPA on a PHP JSON API. Runs locally via Docker.</p>
+      <p><strong>Stack:</strong> Vue 3, PHP, MySQL, JWT, Stripe, Docker</p>
+      <p><strong>My part:</strong> full-stack — SPA, JSON API, auth &amp; payments</p>
+      <p><a href="https://github.com/YuChangHuang/Web-Development2-Final-assignment">View repository →</a></p>
+    </td>
+    <td width="33%" valign="top">
       <h3>Haarlem Festival Platform</h3>
       <p>Full-stack festival site with a public website and an internal CMS: QR-code ticketing, Stripe payments, reservations, and order management. Team project.</p>
       <p><strong>Stack:</strong> PHP 8.4, MySQL, Nginx, Docker, Stripe</p>
@@ -135,6 +142,8 @@ I am looking for internship roles in **front-end development** or **full-stack w
       <p><strong>My part:</strong> the table ↔ order ↔ order-item data layer</p>
       <p><a href="https://github.com/YuChangHuang/Ordering-system-Chapeau-group4">View repository →</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <h3>Incident Management System</h3>
       <p>IT service-desk ticketing app (the "Garden Group" case): tickets, hand-overs, employee management, a dashboard with statistics, and archiving. Runs locally via Docker.</p>
@@ -142,8 +151,6 @@ I am looking for internship roles in **front-end development** or **full-stack w
       <p><strong>My part:</strong> the password-reset workflow (token + email)</p>
       <p><a href="https://github.com/YuChangHuang/GardenGroup-Incident-System">View repository →</a></p>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
       <h3>Someren — Student Housing Management</h3>
       <p>Management app for a student-housing complex: students, lecturers, rooms, social activities with participants and supervisors, and a drinks bar. Runs locally via Docker.</p>
@@ -158,6 +165,8 @@ I am looking for internship roles in **front-end development** or **full-stack w
       <p><strong>My part:</strong> individual project — built end to end</p>
       <p><a href="https://github.com/YuChangHuang/JavaEndAssignment">View repository →</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <h3>CycleWay.nl</h3>
       <p>Responsive multi-page guide to cycling safely in the Netherlands, with a focus on layout, interaction and accessibility. Hand-written HTML &amp; CSS.</p>
