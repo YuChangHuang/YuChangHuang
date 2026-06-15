@@ -47,6 +47,10 @@ I am looking for internship roles in **front-end development** or **full-stack w
       <sub><strong>Java</strong></sub>
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" alt="C#" /><br/>
+      <sub><strong>C#</strong></sub>
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" /><br/>
       <sub><strong>HTML</strong></sub>
     </td>
@@ -116,25 +120,48 @@ I am looking for internship roles in **front-end development** or **full-stack w
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="33%" valign="top">
       <h3>Haarlem Festival Platform</h3>
-      <p>Full-stack festival website with public site and internal CMS: ticketing with QR codes, Stripe payments, reservations, and order management. Team project.</p>
-      <p><strong>Focus:</strong> PHP 8.4, MySQL, Nginx, Docker Compose, Stripe</p>
-      <p><strong>Built:</strong> payment flows, CMS features, fully local one-command Docker setup</p>
-      <p><a href="https://github.com/YuChangHuang/HaarlemFestivalPart2">View repository</a></p>
+      <p>Full-stack festival site with a public website and an internal CMS: QR-code ticketing, Stripe payments, reservations, and order management. Team project.</p>
+      <p><strong>Stack:</strong> PHP 8.4, MySQL, Nginx, Docker, Stripe</p>
+      <p><strong>My part:</strong> payment flows, CMS features, one-command Docker setup</p>
+      <p><a href="https://github.com/YuChangHuang/HaarlemFestivalPart2">View repository →</a></p>
     </td>
-    <td width="33%">
-      <h3>CycleWay.nl — Festival Event Website</h3>
-      <p>Responsive multi-page website focused on layout, interaction, and accessibility.</p>
-      <p><strong>Focus:</strong> HTML, CSS, Figma, WCAG 2.1</p>
-      <p><a href="https://yuchanghuang.github.io/Web-Markup-Final/">Live demo</a> · <a href="https://github.com/YuChangHuang/Web-Markup-Final">View repository</a></p>
-    </td>
-    <td width="33%">
+    <td width="33%" valign="top">
       <h3>Restaurant Ordering System</h3>
-      <p>Full-stack restaurant management system built in a team project.</p>
-      <p><strong>Focus:</strong> ASP.NET MVC, SQL, ERD, payment flows</p>
-      <p><strong>Built:</strong> Direct Pay, Split Payment, database structure, MVC-based application logic</p>
-      <p><em>Repository coming soon</em></p>
+      <p>Restaurant POS / ordering system: take orders per table, live kitchen &amp; bar queues, billing with split payments, tips and VAT. Runs locally via Docker.</p>
+      <p><strong>Stack:</strong> ASP.NET Core MVC, C#, SQL Server, Docker</p>
+      <p><strong>My part:</strong> the table ↔ order ↔ order-item data layer</p>
+      <p><a href="https://github.com/YuChangHuang/Ordering-system-Chapeau-group4">View repository →</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Incident Management System</h3>
+      <p>IT service-desk ticketing app (the "Garden Group" case): tickets, hand-overs, employee management, a dashboard with statistics, and archiving. Runs locally via Docker.</p>
+      <p><strong>Stack:</strong> ASP.NET Core MVC, C#, MongoDB, Docker</p>
+      <p><strong>My part:</strong> the password-reset workflow (token + email)</p>
+      <p><a href="https://github.com/YuChangHuang/GardenGroup-Incident-System">View repository →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Someren — Student Housing Management</h3>
+      <p>Management app for a student-housing complex: students, lecturers, rooms, social activities with participants and supervisors, and a drinks bar. Runs locally via Docker.</p>
+      <p><strong>Stack:</strong> ASP.NET Core MVC, C#, SQL Server, Docker</p>
+      <p><strong>My part:</strong> lecturers CRUD, activities &amp; supervisor management</p>
+      <p><a href="https://github.com/YuChangHuang/Someren">View repository →</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Java Quiz Application</h3>
+      <p>Desktop quiz game: loads quizzes from JSON, times each question, scores the player and saves results. Object-oriented design with unit tests.</p>
+      <p><strong>Stack:</strong> Java 21, JavaFX, Maven, JUnit</p>
+      <p><strong>My part:</strong> individual project — built end to end</p>
+      <p><a href="https://github.com/YuChangHuang/JavaEndAssignment">View repository →</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>CycleWay.nl</h3>
+      <p>Responsive multi-page guide to cycling safely in the Netherlands, with a focus on layout, interaction and accessibility. Hand-written HTML &amp; CSS.</p>
+      <p><strong>Stack:</strong> HTML, CSS, Figma, WCAG 2.1</p>
+      <p><a href="https://yuchanghuang.github.io/Web-Markup-Final/">Live demo</a> · <a href="https://github.com/YuChangHuang/Web-Markup-Final">View repository →</a></p>
     </td>
   </tr>
 </table>
