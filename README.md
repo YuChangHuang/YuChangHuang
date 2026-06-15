@@ -6,6 +6,7 @@
 
 Building responsive, user-centered web applications with a focus on clean interfaces, practical systems, and thoughtful interaction design.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YuChang_Huang-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuchang-huang-abba1a299/)
 [![Email](https://img.shields.io/badge/Email-yuchanghuang112%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuchanghuang112@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-YuChangHuang-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuChangHuang)
 [![Location](https://img.shields.io/badge/Amsterdam-Netherlands-0f766e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Amsterdam)
@@ -28,7 +29,7 @@ My strongest interests are **responsive web development**, **UI/UX-driven implem
 
 I am looking for internship roles in **front-end development** or **full-stack web development**, especially on teams that value clean implementation, useful products, and steady learning.
 
-**Email:** [yuchanghuang112@gmail.com](mailto:yuchanghuang112@gmail.com)
+**LinkedIn:** [linkedin.com/in/yuchang-huang](https://www.linkedin.com/in/yuchang-huang-abba1a299/) · **Email:** [yuchanghuang112@gmail.com](mailto:yuchanghuang112@gmail.com)
 
 </div>
 
