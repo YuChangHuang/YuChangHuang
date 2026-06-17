@@ -122,18 +122,18 @@ I am looking for internship roles in **front-end development** or **full-stack w
 <table>
   <tr>
     <td width="33%" valign="top">
+      <h3>Banking Application</h3>
+      <p>Full-stack retail-banking app: accounts &amp; IBANs, money transfers, ATM deposit/withdraw, transaction history, and JWT auth with customer/employee roles. Spring Boot REST API + Vue 3 SPA, tested with JUnit &amp; Cucumber.</p>
+      <p><strong>Stack:</strong> Java, Spring Boot, JWT, H2, Vue 3, Cucumber</p>
+      <p><strong>My part:</strong> ATM feature, transaction service &amp; tests</p>
+      <p><a href="https://github.com/YuChangHuang/BankingApplication">Backend</a> · <a href="https://github.com/YuChangHuang/BankingApplication-frontend">Frontend →</a></p>
+    </td>
+    <td width="33%" valign="top">
       <h3>Ride Lab</h3>
       <p>Road-cycling catalogue &amp; personal-setup app: browse and compare bikes, estimate tyre pressure, save setups, and upgrade to premium via Stripe. Vue 3 SPA on a PHP JSON API. Runs locally via Docker.</p>
       <p><strong>Stack:</strong> Vue 3, PHP, MySQL, JWT, Stripe, Docker</p>
       <p><strong>My part:</strong> full-stack — SPA, JSON API, auth &amp; payments</p>
       <p><a href="https://github.com/YuChangHuang/Web-Development2-Final-assignment">View repository →</a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Haarlem Festival Platform</h3>
-      <p>Full-stack festival site with a public website and an internal CMS: QR-code ticketing, Stripe payments, reservations, and order management. Team project.</p>
-      <p><strong>Stack:</strong> PHP 8.4, MySQL, Nginx, Docker, Stripe</p>
-      <p><strong>My part:</strong> payment flows, CMS features, one-command Docker setup</p>
-      <p><a href="https://github.com/YuChangHuang/HaarlemFestivalPart2">View repository →</a></p>
     </td>
     <td width="33%" valign="top">
       <h3>Restaurant Ordering System</h3>
@@ -159,14 +159,21 @@ I am looking for internship roles in **front-end development** or **full-stack w
       <p><a href="https://github.com/YuChangHuang/Someren">View repository →</a></p>
     </td>
     <td width="33%" valign="top">
+      <h3>Haarlem Festival Platform</h3>
+      <p>Full-stack festival site with a public website and an internal CMS: QR-code ticketing, Stripe payments, reservations, and order management. Team project.</p>
+      <p><strong>Stack:</strong> PHP 8.4, MySQL, Nginx, Docker, Stripe</p>
+      <p><strong>My part:</strong> payment flows, CMS features, one-command Docker setup</p>
+      <p><a href="https://github.com/YuChangHuang/HaarlemFestivalPart2">View repository →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h3>Java Quiz Application</h3>
       <p>Desktop quiz game: loads quizzes from JSON, times each question, scores the player and saves results. Object-oriented design with unit tests.</p>
       <p><strong>Stack:</strong> Java 21, JavaFX, Maven, JUnit</p>
       <p><strong>My part:</strong> individual project — built end to end</p>
       <p><a href="https://github.com/YuChangHuang/JavaEndAssignment">View repository →</a></p>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
       <h3>CycleWay.nl</h3>
       <p>Responsive multi-page guide to cycling safely in the Netherlands, with a focus on layout, interaction and accessibility. Hand-written HTML &amp; CSS.</p>
